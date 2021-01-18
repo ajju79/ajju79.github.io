@@ -3,7 +3,7 @@ Web Portfolio to showcase projects and skills in better manner.
 
 ###### https://ajju79.github.io/
 
-![Image](https://github.com/ajju79/ajju79.github.io/ajju79githubio.gif)
+![Image](https://github.com/ajju79/ajju79.github.io/blob/main/ajju79githubio.gif)
 ### About me
 * Competitive Programming Page
 * Web Designing Page
